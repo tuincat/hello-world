@@ -9,6 +9,7 @@
     <form action="/login" method="post">
 	    <h2>Register</h2>
         <div>
+		<hr>
             <label for="username">Username:</label>
             <input type="text" id="username" name="username" required>
         
