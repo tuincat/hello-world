@@ -7,7 +7,7 @@
 </head>
 <body>
     <form action="/login" method="post">
-        <h2>Login</h2>
+	    <h2>Register</h2>
         <div>
             <label for="username">Username:</label>
             <input type="text" id="username" name="username" required>
