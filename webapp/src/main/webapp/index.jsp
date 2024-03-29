@@ -7,7 +7,7 @@
 </head>
 <body>
     <form action="/login" method="post">
-	    <h2>Register</h2>
+	    <h2>Login</h2>
         <div>
 		<hr>
             <label for="username">Username/Email:</label>
