@@ -10,7 +10,7 @@
 	    <h2>Register</h2>
         <div>
 		<hr>
-            <label for="username">Username:</label>
+            <label for="username">Username/Email:</label>
             <input type="text" id="username" name="username" required>
         
 	</div>
